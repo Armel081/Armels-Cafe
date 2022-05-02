@@ -5,7 +5,7 @@ A little mock-up site i created mirroring the CSS Cafe site from [FreeCodeCamp's
 
 ### INSTRUCTIONS
 
-Download as zip, extract, and open the file "cafe.html" to get started on the main page. Also, don't touch anything else from the folder, as that may cause some elements on the page to break or not load correctly
+Download as zip, extract, and open the file "cafe.html" to get started on the main page. Also, don't touch anything else from the folder, as that may cause some elements on the page to break and/or not load correctly
 
 #### Attributions
 
