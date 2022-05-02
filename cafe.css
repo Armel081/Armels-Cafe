@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+
+body {
+    
+   background-image: url(Assets/background.jpg);
+   font-family: 'Square Peg', sans-serif;
+   padding: 20px;
+
+}
+
+.logo {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  height: 135px;
+  width: 220px;
+}
+
+.established {
+   font-weight: 350;
+   font-style: italic;
+}
+
+
+.menu {
+   background: linear-gradient(180deg, rgba(222,184,128,1) 0%, rgba(236,202,152,1) 100%);
+   text-align: center;
+   padding: 25px;
+   box-shadow: 30px 30px 8px 3px rgba(0,0,0,0.7), inset 24px 20px 40px 16px rgba(252,251,255,0.185);
+   border-radius: 6.75px;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 450px;
+   min-width: 350px;
+   
+}
+
+.icon {
+   height: 60px;
+   width: 60px;
+   margin-left: auto;
+   margin-right: auto;
+   position: relative;
+   top: -25px;
+}
+
+.flavor {
+   float: left;
+   padding: 5px
+}
+
+.flavorpic {
+   height: 140px;
+   width: 155px;
+}
+
+.flavortxt {
+   height: 40px;
+   width: 190px;
+   user-select: none;
+
+}
+
+.price {
+   float: right;
+   text-align: right;
+   width: 50px;
+   margin-right: 46.5px;
+   font-size: 40px;
+   text-decoration: underline;
+   user-select: none;
+}
+
+
+h2 {
+   font-size: 40px;
+}
+
+p {
+   font-size: 20px;
+}
+
+img {
+   user-select: none;
+}
+
+hr {
+
+ height: 3px;
+ background-color: brown;
+ border-color:brown
+
+}
+
+figcaption {
+
+   font-size: 25px
+}
+
+/*some clearfix shit idk what this does lol*/
+
+.cf:before,
+.cf:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+
+/*FOOTER*/
+
+.bottom-line {
+   margin-top: 30px;
+}
+
+footer {
+   font-size: 24px;
+   
+}
+
+a {
+   color: black;
+}
+
+a:hover {
+   color: brown;
+}
+
+a:visited {
+   color: black;
+}
+
+.credits {
+   margin: 5px;
+   font-size: 15px;
+}
