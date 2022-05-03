@@ -9,6 +9,6 @@ Download as zip, extract, and open the file "cafe.html" to get started on the ma
 
 #### Attributions
 
-[FreeCodeCamp's CSS Cafe Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu) for the original idea and the base design
+[FreeCodeCamp's CSS Cafe Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu) for the original idea and the base design of the page
 
-[Armel081 (aka me)](https://github.com/Armel081) for the code and all of the other extra design features
+[Armel081 (aka me)](https://github.com/Armel081) for the code and all of the other extra design features and sites
