@@ -5,7 +5,7 @@ A little mock-up site i created mirroring the CSS Cafe site from [FreeCodeCamp's
 
 ### INSTRUCTIONS
 
-Go to the <ins>[**Releases**](https://github.com/Armel081/Armels-Cafe/releases)</ins> page,, download the latest version of the ```Armels-Cafe-release.zip``` file, extract the ```Armels-Cafe-release``` folder, then open up ```Sites``` and click on ```cafe.html``` to go onto the page. Also, don't touch anything else from the folder, as that may cause elements on the page to break and/or not load correctly.
+Go to the <ins>[**Releases**](https://github.com/Armel081/Armels-Cafe/releases)</ins> page, download the latest version of the ```Armels-Cafe-release.zip``` file, extract the ```Armels-Cafe-release``` folder, then open up ```Sites``` and click on ```cafe.html``` to go onto the page. Also, don't touch anything else from the folder, as that may cause elements on the page to break and/or not load correctly.
 
 #### Attributions
 
